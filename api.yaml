@@ -1,7 +1,0 @@
-openapi: 3.0.0
--
-  name: Tom
-  age: 42
--
-  name: Shannon
-  age: 41
